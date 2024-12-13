@@ -55,7 +55,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Page Title
-st.markdown("<h1>Health Insurance Premium Predictor</h1>", unsafe_allow_html=True)
+st.markdown("<h1>Health Insurance Predictor</h1>", unsafe_allow_html=True)
 
 # Input Fields Layout
 categorical_options = {
